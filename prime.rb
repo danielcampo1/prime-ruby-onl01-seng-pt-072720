@@ -1,2 +1,2 @@
-prime?()
+def prime?()
 end
